@@ -40,6 +40,8 @@ body{
     align-items: center;
     gap: 1rem;
     padding-inline: 1rem;
+    position: sticky;
+    z-index: 2;
 }
 
 
