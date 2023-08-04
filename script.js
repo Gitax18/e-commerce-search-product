@@ -9,6 +9,8 @@ function showSearchedProduct(product){
         const rowItem = row_titles[item].textContent.toLowerCase().includes(prdt)
         if(rowItem === false){
             rows[item].style.display = 'none';
+        }else{
+            rows[item].style.display='grid';
         }
     }
 }
