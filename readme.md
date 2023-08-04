@@ -1,7 +1,5 @@
 # E-commerce Product Search Bar Project
 
-![Project Logo](https://example.com/project_logo.png)
-
 ## Table of Contents
 
 - [Description](#description)
